@@ -1,0 +1,70 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Copy HTML to Clipboard</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://dev.campaign-genius.com/js/clippy.js"></script>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap');
+    </style>
+<style>
+  /* Always set the map height explicitly to define the size of the div
+   * element that contains the map. */
+  #map {
+    height: 100%;
+  }
+
+  /* Optional: Makes the sample page fill the window. */
+  html, body {
+    font-family: 'Ubuntu', sans-serif;
+    height: 90%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  .h1{
+      color: #6d6d6d;
+      font-size: 24px;
+  }
+  .h2{
+      color: #8d8d8d;
+      font-size: 18px;
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+  }
+  .copybox{
+      margin: 2em 4em 4em 4em;
+      border: 2px solid #cccccc;
+      width: 400px;
+      height: 200px;
+      flex-basis: 50%;
+  }
+  .copybtn{
+      width: 100px;
+      height: 60px;
+  }
+</style>
+<body>
+<h1>Copy to Clipboard as HTML</h1>
+<h2>Paste CG tag or other html into editable div, then click Copy.</h2>
+<div style="display: flex; justify-content: center;flex-wrap: wrap;">
+    <textarea class="copybox" id="stuff" placeholder="copy html here"></textarea>
+</div>
+<button onclick="copyStuff()" class="copybtn">Copy</button>
+<script>
+    function copyStuff(){
+        let stuff = $("#stuff").val();
+        //let stuff = '<img src="https://dev.campaign-genius.com/image/BEEE-aine/youtube.jpg?id=0c93736afe150e46b2d4a374e251e466690bd728&tool=Edit&w=499&h=374&miwidth=499&sid=y&ow=640&oh=480&miusc=tbfumbzb" alt="Three Reasons Why Tesla Stock Keeps Rising: CNBC After Hours...">'
+        console.log("stuff = " + (stuff));
+    clipboard.copy({
+        "text/html": stuff
+    });
+    }
+
+</script>
+</body>
+</html>
