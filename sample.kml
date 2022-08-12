@@ -3,7 +3,7 @@
 <Document>
   <name>kml_sample1.kml</name>
   <Placemark>
-    <name>Google Inc.</name>
+    <name>Google Foo.</name>
     <description><![CDATA[
       Google Inc.<br />
       1600 Amphitheatre Parkway<br />
