@@ -16,14 +16,15 @@
     <Point>
       <coordinates>-122.0841430, 37.4219720, 0</coordinates>
     </Point>
-    <Style id="normalPlacemark">
-    <IconStyle>
-             <color>00ffff00</color>
-             <Icon>
-                	<href>https://raw.githubusercontent.com/DrMatthewDunn/cgtools/master/red.svg</href>
-             </Icon>
-          </IconStyle>
-</Style>
+            <Style>
+                <IconStyle>
+                    <scale>1</scale>
+                    <color>ff0000ff</color>
+                    <Icon>
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
   </Placemark>
 
   <Placemark>
