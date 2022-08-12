@@ -20,7 +20,7 @@
     <IconStyle>
              <color>00ffff00</color>
              <Icon>
-                	<href>https://storage.googleapis.com/staging.app-campaign-genius.appspot.com/cgblue.svg</href>
+                	<href>https://raw.githubusercontent.com/DrMatthewDunn/cgtools/master/red.svg</href>
              </Icon>
           </IconStyle>
 </Style>
