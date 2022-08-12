@@ -19,7 +19,7 @@
             <Style>
                 <IconStyle>
                     <scale>1</scale>
-                    <color>ff0000ff</color>
+                    <color>ffff00ff</color>
                     <Icon>
                         <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
                     </Icon>
