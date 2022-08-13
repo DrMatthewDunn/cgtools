@@ -1,0 +1,204 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.google.com/earth/kml/2">
+<Document>
+ <Placemark>
+       <name>33071</name>
+      <description><![CDATA[
+        ZIP Code 33071 - Broward County, Florida<br>
+        Group:1 - Wealthy Suburban Families<br>
+        Family: B - Wealthy Suburban Families<br>
+        Segment: B01 - #FusianFamilies<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-80.2662,26.24384</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ff99630B</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>27529</name>
+      <description><![CDATA[
+        ZIP Code 27529 - Wake County, North Carolina<br>
+        Group:1 - Wealthy Suburban Families<br>
+        Family: C - Upper Suburban Diverse Families<br>
+        Segment: C03 - #FlourishingFusion<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-78.58172,35.65233</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ff99630B</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>36559</name>
+      <description><![CDATA[
+        ZIP Code 36559 - Baldwin County, Alabama<br>
+        Group:2 - Boomers<br>
+        Family: J - Sunset Boomers<br>
+        Segment: J03 - #CouplesCoastingIn<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-87.90401,30.56858</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ffA86746</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>54202</name>
+      <description><![CDATA[
+        ZIP Code 54202 - Door County, Wisconsin<br>
+        Group:2 - Boomers<br>
+        Family: J - Sunset Boomers<br>
+        Segment: J05 - #ScenicSeniors<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-87.13809,45.07718</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ffA86746</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>54914</name>
+      <description><![CDATA[
+        ZIP Code 54914 - Outagamie County, Wisconsin<br>
+        Group:3 - Blue Collar<br>
+        Family: F - Blue Collar Suburbs<br>
+        Segment: F01 - #GameTimeGlory<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-88.47529,44.26384</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ffB16A6F</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>10023</name>
+      <description><![CDATA[
+        ZIP Code 10023 - New York County, New York<br>
+        Group:4 - Young Professionals<br>
+        Family: G - Educated Urbanites<br>
+        Segment: G01 - #HighRisers<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-73.98269,40.77601</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ffB46a96</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>56174</name>
+      <description><![CDATA[
+        ZIP Code 56174 - Cottonwood County, Minnesota<br>
+        Group:5 - Rural And Small Town Lifestyle<br>
+        Family: M - Rural Average Income<br>
+        Segment: M01 - #WideOpenSpaces<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-95.30553,44.01598</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ffB06AB9</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>12721</name>
+      <description><![CDATA[
+        ZIP Code 12721 - Sullivan County, New York<br>
+        Group:5 - Rural And Small Town Lifestyle<br>
+        Family: M - Rural Average Income<br>
+        Segment: M02 - #JohnDeereCountry<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-74.42891,41.56748</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#ffB06AB9</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+ <Placemark>
+       <name>55404</name>
+      <description><![CDATA[
+        ZIP Code 55404 - Hennepin County, Minnesota<br>
+        Group:6 - Urban Diverse Low Income<br>
+        Family: Q - Urban Low Income<br>
+        Segment: Q07 - #HistoricTransitions<br>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-93.26078,44.96194</coordinates>
+      </Point>
+      <Style>
+          <IconStyle>
+              <scale>1</scale>
+              <color>#FFA76BD9</color>
+              <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+              </Icon>
+          </IconStyle>
+  </Style>
+    </Placemark>
+</Document>
+</kml>
